@@ -1,5 +1,5 @@
 # MoM-Wasserstein
-Source code of the Paper: "When OT meets MoM: a robust estimation of the Wasserstein distance".
+Source code of the AISTATS 2021  Paper: "When OT meets MoM: a robust estimation of the Wasserstein distance".
 
 
 This code is composed of two part:
